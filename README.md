@@ -13,7 +13,7 @@ Em seguida, ler novas datas de entrada e saída, atualizar a reserva, e mostrar 
 
 ### Diagrama de classes
 <p align="center">
-  <img src="./assets/img/08-heranca-e-polimorfismo.jpg" width="350" title="hover text" alt="class diagram">
+  <img src="https://raw.githubusercontent.com/cernandes/exceptions-java/master/assets/img/class-diagram.JPG" width="350" title="hover text" alt="class diagram">
 </p>
 
 ### Entrada de dados
